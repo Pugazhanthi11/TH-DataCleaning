@@ -1,6 +1,7 @@
-# Data Science
+# Data Cleaning
 
-This task focuses on cleaning and preprocessing the dataset collected in Task 1.
+
+This focuses on cleaning and preprocessing the dataset collected in Task 1.
 
 The dataset was loaded using Pandas, checked for missing values, cleaned, and saved as a new CSV file.
 
